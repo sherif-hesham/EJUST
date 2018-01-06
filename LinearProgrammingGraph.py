@@ -74,10 +74,8 @@ def G4():
         plt.xlim(0,10)
         plt.ylim(0,10)
         plt.show()
-try:
-    G1()
-    G2()
-    G3()
-    G4()
-except KeyboardInterrupt :
-    exit()
+
+G1()
+G2()
+G3()
+G4()
