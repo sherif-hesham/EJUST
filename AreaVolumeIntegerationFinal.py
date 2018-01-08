@@ -1,3 +1,8 @@
+#Submitted as a part of MTH111's Final group report @ EJUST - fall 2017
+#Python 3.6
+#Libraries: numpy,scipy, matplotlib
+
+
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 import matplotlib.pyplot as plt
